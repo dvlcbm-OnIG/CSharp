@@ -1,0 +1,15 @@
+E:\vscode\C#\JustPractice2\ChildEight\bin\Debug\net10.0\ChildEight.exe
+E:\vscode\C#\JustPractice2\ChildEight\bin\Debug\net10.0\ChildEight.deps.json
+E:\vscode\C#\JustPractice2\ChildEight\bin\Debug\net10.0\ChildEight.runtimeconfig.json
+E:\vscode\C#\JustPractice2\ChildEight\bin\Debug\net10.0\ChildEight.dll
+E:\vscode\C#\JustPractice2\ChildEight\bin\Debug\net10.0\ChildEight.pdb
+E:\vscode\C#\JustPractice2\ChildEight\obj\Debug\net10.0\ChildEight.GeneratedMSBuildEditorConfig.editorconfig
+E:\vscode\C#\JustPractice2\ChildEight\obj\Debug\net10.0\ChildEight.AssemblyInfoInputs.cache
+E:\vscode\C#\JustPractice2\ChildEight\obj\Debug\net10.0\ChildEight.AssemblyInfo.cs
+E:\vscode\C#\JustPractice2\ChildEight\obj\Debug\net10.0\ChildEight.csproj.CoreCompileInputs.cache
+E:\vscode\C#\JustPractice2\ChildEight\obj\Debug\net10.0\ChildEight.sourcelink.json
+E:\vscode\C#\JustPractice2\ChildEight\obj\Debug\net10.0\ChildEight.dll
+E:\vscode\C#\JustPractice2\ChildEight\obj\Debug\net10.0\refint\ChildEight.dll
+E:\vscode\C#\JustPractice2\ChildEight\obj\Debug\net10.0\ChildEight.pdb
+E:\vscode\C#\JustPractice2\ChildEight\obj\Debug\net10.0\ChildEight.genruntimeconfig.cache
+E:\vscode\C#\JustPractice2\ChildEight\obj\Debug\net10.0\ref\ChildEight.dll
