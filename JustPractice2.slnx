@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="ChildEight/ChildEight.csproj" />
+  <Project Path="ChildFive/ChildFive.csproj" />
+  <Project Path="ChildFour/ChildFour.csproj" />
+  <Project Path="ChildOne/ChildOne.csproj" />
+  <Project Path="ChildSeven/ChildSeven.csproj" />
+  <Project Path="ChildSix/ChildSix.csproj" />
+  <Project Path="ChildThree/ChildThree.csproj" />
+  <Project Path="ChildTwo/ChildTwo.csproj" />
+</Solution>
