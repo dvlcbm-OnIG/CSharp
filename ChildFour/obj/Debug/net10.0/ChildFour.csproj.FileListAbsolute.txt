@@ -1,0 +1,15 @@
+E:\vscode\C#\JustPractice2\ChildFour\obj\Debug\net10.0\ChildFour.GeneratedMSBuildEditorConfig.editorconfig
+E:\vscode\C#\JustPractice2\ChildFour\obj\Debug\net10.0\ChildFour.AssemblyInfoInputs.cache
+E:\vscode\C#\JustPractice2\ChildFour\obj\Debug\net10.0\ChildFour.AssemblyInfo.cs
+E:\vscode\C#\JustPractice2\ChildFour\obj\Debug\net10.0\ChildFour.csproj.CoreCompileInputs.cache
+E:\vscode\C#\JustPractice2\ChildFour\obj\Debug\net10.0\ChildFour.sourcelink.json
+E:\vscode\C#\JustPractice2\ChildFour\bin\Debug\net10.0\ChildFour.exe
+E:\vscode\C#\JustPractice2\ChildFour\bin\Debug\net10.0\ChildFour.deps.json
+E:\vscode\C#\JustPractice2\ChildFour\bin\Debug\net10.0\ChildFour.runtimeconfig.json
+E:\vscode\C#\JustPractice2\ChildFour\bin\Debug\net10.0\ChildFour.dll
+E:\vscode\C#\JustPractice2\ChildFour\bin\Debug\net10.0\ChildFour.pdb
+E:\vscode\C#\JustPractice2\ChildFour\obj\Debug\net10.0\ChildFour.dll
+E:\vscode\C#\JustPractice2\ChildFour\obj\Debug\net10.0\refint\ChildFour.dll
+E:\vscode\C#\JustPractice2\ChildFour\obj\Debug\net10.0\ChildFour.pdb
+E:\vscode\C#\JustPractice2\ChildFour\obj\Debug\net10.0\ChildFour.genruntimeconfig.cache
+E:\vscode\C#\JustPractice2\ChildFour\obj\Debug\net10.0\ref\ChildFour.dll

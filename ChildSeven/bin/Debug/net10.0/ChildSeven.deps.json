@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ChildSeven/1.0.0": {
+        "runtime": {
+          "ChildSeven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChildSeven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\vscode\C#\JustPractice2\ChildSeven\bin\Debug\net10.0\ChildSeven.exe
+E:\vscode\C#\JustPractice2\ChildSeven\bin\Debug\net10.0\ChildSeven.deps.json
+E:\vscode\C#\JustPractice2\ChildSeven\bin\Debug\net10.0\ChildSeven.runtimeconfig.json
+E:\vscode\C#\JustPractice2\ChildSeven\bin\Debug\net10.0\ChildSeven.dll
+E:\vscode\C#\JustPractice2\ChildSeven\bin\Debug\net10.0\ChildSeven.pdb
+E:\vscode\C#\JustPractice2\ChildSeven\obj\Debug\net10.0\ChildSeven.GeneratedMSBuildEditorConfig.editorconfig
+E:\vscode\C#\JustPractice2\ChildSeven\obj\Debug\net10.0\ChildSeven.AssemblyInfoInputs.cache
+E:\vscode\C#\JustPractice2\ChildSeven\obj\Debug\net10.0\ChildSeven.AssemblyInfo.cs
+E:\vscode\C#\JustPractice2\ChildSeven\obj\Debug\net10.0\ChildSeven.csproj.CoreCompileInputs.cache
+E:\vscode\C#\JustPractice2\ChildSeven\obj\Debug\net10.0\ChildSeven.sourcelink.json
+E:\vscode\C#\JustPractice2\ChildSeven\obj\Debug\net10.0\ChildSeven.dll
+E:\vscode\C#\JustPractice2\ChildSeven\obj\Debug\net10.0\refint\ChildSeven.dll
+E:\vscode\C#\JustPractice2\ChildSeven\obj\Debug\net10.0\ChildSeven.pdb
+E:\vscode\C#\JustPractice2\ChildSeven\obj\Debug\net10.0\ChildSeven.genruntimeconfig.cache
+E:\vscode\C#\JustPractice2\ChildSeven\obj\Debug\net10.0\ref\ChildSeven.dll

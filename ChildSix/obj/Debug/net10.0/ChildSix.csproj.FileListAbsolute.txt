@@ -1,0 +1,15 @@
+E:\vscode\C#\JustPractice2\ChildSix\bin\Debug\net10.0\ChildSix.exe
+E:\vscode\C#\JustPractice2\ChildSix\bin\Debug\net10.0\ChildSix.deps.json
+E:\vscode\C#\JustPractice2\ChildSix\bin\Debug\net10.0\ChildSix.runtimeconfig.json
+E:\vscode\C#\JustPractice2\ChildSix\bin\Debug\net10.0\ChildSix.dll
+E:\vscode\C#\JustPractice2\ChildSix\bin\Debug\net10.0\ChildSix.pdb
+E:\vscode\C#\JustPractice2\ChildSix\obj\Debug\net10.0\ChildSix.GeneratedMSBuildEditorConfig.editorconfig
+E:\vscode\C#\JustPractice2\ChildSix\obj\Debug\net10.0\ChildSix.AssemblyInfoInputs.cache
+E:\vscode\C#\JustPractice2\ChildSix\obj\Debug\net10.0\ChildSix.AssemblyInfo.cs
+E:\vscode\C#\JustPractice2\ChildSix\obj\Debug\net10.0\ChildSix.csproj.CoreCompileInputs.cache
+E:\vscode\C#\JustPractice2\ChildSix\obj\Debug\net10.0\ChildSix.sourcelink.json
+E:\vscode\C#\JustPractice2\ChildSix\obj\Debug\net10.0\ChildSix.dll
+E:\vscode\C#\JustPractice2\ChildSix\obj\Debug\net10.0\refint\ChildSix.dll
+E:\vscode\C#\JustPractice2\ChildSix\obj\Debug\net10.0\ChildSix.pdb
+E:\vscode\C#\JustPractice2\ChildSix\obj\Debug\net10.0\ChildSix.genruntimeconfig.cache
+E:\vscode\C#\JustPractice2\ChildSix\obj\Debug\net10.0\ref\ChildSix.dll
