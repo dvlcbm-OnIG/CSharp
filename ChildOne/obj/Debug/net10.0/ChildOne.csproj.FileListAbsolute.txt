@@ -1,0 +1,15 @@
+D:\vscode\C#\JustPractice2\ChildOne\bin\Debug\net10.0\ChildOne.exe
+D:\vscode\C#\JustPractice2\ChildOne\bin\Debug\net10.0\ChildOne.deps.json
+D:\vscode\C#\JustPractice2\ChildOne\bin\Debug\net10.0\ChildOne.runtimeconfig.json
+D:\vscode\C#\JustPractice2\ChildOne\bin\Debug\net10.0\ChildOne.dll
+D:\vscode\C#\JustPractice2\ChildOne\bin\Debug\net10.0\ChildOne.pdb
+D:\vscode\C#\JustPractice2\ChildOne\obj\Debug\net10.0\ChildOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\C#\JustPractice2\ChildOne\obj\Debug\net10.0\ChildOne.AssemblyInfoInputs.cache
+D:\vscode\C#\JustPractice2\ChildOne\obj\Debug\net10.0\ChildOne.AssemblyInfo.cs
+D:\vscode\C#\JustPractice2\ChildOne\obj\Debug\net10.0\ChildOne.csproj.CoreCompileInputs.cache
+D:\vscode\C#\JustPractice2\ChildOne\obj\Debug\net10.0\ChildOne.sourcelink.json
+D:\vscode\C#\JustPractice2\ChildOne\obj\Debug\net10.0\ChildOne.dll
+D:\vscode\C#\JustPractice2\ChildOne\obj\Debug\net10.0\refint\ChildOne.dll
+D:\vscode\C#\JustPractice2\ChildOne\obj\Debug\net10.0\ChildOne.pdb
+D:\vscode\C#\JustPractice2\ChildOne\obj\Debug\net10.0\ChildOne.genruntimeconfig.cache
+D:\vscode\C#\JustPractice2\ChildOne\obj\Debug\net10.0\ref\ChildOne.dll
