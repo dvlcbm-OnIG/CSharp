@@ -1,0 +1,15 @@
+E:\vscode\C#\JustPractice2\ChildNine\bin\Debug\net10.0\ChildNine.exe
+E:\vscode\C#\JustPractice2\ChildNine\bin\Debug\net10.0\ChildNine.deps.json
+E:\vscode\C#\JustPractice2\ChildNine\bin\Debug\net10.0\ChildNine.runtimeconfig.json
+E:\vscode\C#\JustPractice2\ChildNine\bin\Debug\net10.0\ChildNine.dll
+E:\vscode\C#\JustPractice2\ChildNine\bin\Debug\net10.0\ChildNine.pdb
+E:\vscode\C#\JustPractice2\ChildNine\obj\Debug\net10.0\ChildNine.GeneratedMSBuildEditorConfig.editorconfig
+E:\vscode\C#\JustPractice2\ChildNine\obj\Debug\net10.0\ChildNine.AssemblyInfoInputs.cache
+E:\vscode\C#\JustPractice2\ChildNine\obj\Debug\net10.0\ChildNine.AssemblyInfo.cs
+E:\vscode\C#\JustPractice2\ChildNine\obj\Debug\net10.0\ChildNine.csproj.CoreCompileInputs.cache
+E:\vscode\C#\JustPractice2\ChildNine\obj\Debug\net10.0\ChildNine.sourcelink.json
+E:\vscode\C#\JustPractice2\ChildNine\obj\Debug\net10.0\ChildNine.dll
+E:\vscode\C#\JustPractice2\ChildNine\obj\Debug\net10.0\refint\ChildNine.dll
+E:\vscode\C#\JustPractice2\ChildNine\obj\Debug\net10.0\ChildNine.pdb
+E:\vscode\C#\JustPractice2\ChildNine\obj\Debug\net10.0\ChildNine.genruntimeconfig.cache
+E:\vscode\C#\JustPractice2\ChildNine\obj\Debug\net10.0\ref\ChildNine.dll
