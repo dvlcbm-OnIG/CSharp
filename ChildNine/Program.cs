@@ -12,7 +12,7 @@ public class Program
         int summing = 0;
         int grade;
         int subject = 1;
-        int attempt = -1; //i put -1 instead of 0 to decrease the divisor avoid the 0 input from being included in the getting the average
+        int attempt = 0; //i put -1 instead of 0 to decrease the divisor avoid the 0 input from being included in the getting the average
 
         do
         {
@@ -42,4 +42,5 @@ public class Program
             Console.ReadKey();
 
     }
+
 }
