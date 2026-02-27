@@ -19,9 +19,12 @@ public class Program
             Console.Write($"Enter grade #{subject} (enter '0' to stop): ");
             grade = Convert.ToInt32(Console.ReadLine());
 
+
+            if(grade != 0){
             summing += grade;
             attempt++;
             subject++;
+            }
 
         }while (grade != 0);
            int GWA = Gwa(summing, attempt);
@@ -44,3 +47,4 @@ public class Program
     }
 
 }
+
