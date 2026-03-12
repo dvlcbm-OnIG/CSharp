@@ -78,5 +78,6 @@ class Program
         {
             Console.WriteLine("Invalid choice.");
         }
+        Console.ReadKey();
     }
 }
