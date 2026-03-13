@@ -8,9 +8,8 @@ public class Program
     }
     public static void Main(string[] args)
     {
-
-        int summing = 0;
         int grade;
+        int summing = 0;
         int subject = 1;
         int attempt = 0; //i put -1 instead of 0 to decrease the divisor avoid the 0 input from being included in the getting the average
 
@@ -47,4 +46,5 @@ public class Program
     }
 
 }
+
 
