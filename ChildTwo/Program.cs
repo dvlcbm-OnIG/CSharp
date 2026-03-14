@@ -57,5 +57,7 @@ class ProgramTwo{
 
       Console.WriteLine($"Hello {name4}, you are {age3} years old and live in {city1}.");
 
+      Console.ReadKey();  
+
     }
 }
