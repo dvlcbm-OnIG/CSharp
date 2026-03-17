@@ -3,6 +3,7 @@ namespace Project1;
 
 public static class SignIn
 {
+	//modern way of encapsulation
 	public static string FullName { get; private set; }
 	public static string IdNumber { get; private set; }
 	public static string UserName { get; private set; }
