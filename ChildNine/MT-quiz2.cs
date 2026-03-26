@@ -1,7 +1,7 @@
 
 
 using System;
-
+using System.Security.Cryptography.X509Certificates;
 
 
 //#1
@@ -153,7 +153,7 @@ public class Teacher : SchoolMember
 
     public void Introduce()
     {
-        double NewSalary = Salary + (Salary * 12);
+        double NewSalary = Salary + (Salary * 0.12);
         Console.WriteLine($"NewSalary: {NewSalary}");
     }
 }
@@ -237,6 +237,10 @@ public class Program
         Car car = new Car();
         Motorcycle moto = new Motorcycle();
         Bus bus = new Bus();
+
+        car.SetWheels();
+        moto.SetWheels();
+        bus.SetWheels();
 
         int totalWheels = (totalCars * car.Wheels) + (totalMotorcycles * moto.Wheels) + (totalBuses * bus.Wheels);
 
